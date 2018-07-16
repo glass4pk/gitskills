@@ -1,3 +1,2 @@
 # gitskills
-Cteating a new branch is quick.
-
+Cteating a new branch is quick AND simple.
