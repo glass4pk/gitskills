@@ -1,3 +1,3 @@
 # gitskills
 Cteating a new branch is quick and simple.
-Isn't it?
+Isn't it? great?
