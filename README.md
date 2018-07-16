@@ -1,3 +1,3 @@
 # gitskills
-Cteating a new branch is quick & simple.
-
+<<<<<<< HEAD
+Cteating a new branch is quick and simple.`
